@@ -1,0 +1,1 @@
+# cursor_app_image_updater
